@@ -1,0 +1,13 @@
+.center{
+  margin:auto;
+  text-align:center;
+}
+table{border-collapse:collapse;}
+table,th,td{
+  border:2px solid black;
+}
+tr:nth-child(even){background-color:#FFC324;}
+
+tr:nth-child(odd){background-color:#FFFFE0;}
+
+tr:hover{background-color: #f5f5f5;}
